@@ -1,0 +1,10 @@
+a.toplevel_page_persona_verify div img{
+    width: 20px;
+}
+.persona_admin_input {
+    width: 100%;
+}
+#hidden_tempID,
+#hidden_userEmail{
+    display: none;
+}
